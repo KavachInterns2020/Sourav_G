@@ -1663,7 +1663,7 @@
 									"font": "Arial;13;0",
 									"left": 587.5,
 									"top": 356.5,
-									"width": 132.0400390625,
+									"width": 131,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyaas5C+zkbGU="
@@ -2061,7 +2061,7 @@
 									"font": "Arial;13;0",
 									"left": 619,
 									"top": 419,
-									"width": 91.66259765625,
+									"width": 91,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyaa2KVe4VzTY="
@@ -2260,7 +2260,7 @@
 									"font": "Arial;13;0",
 									"left": 596.5,
 									"top": 223.5,
-									"width": 136.42626953125,
+									"width": 135,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyaa27J+5tNlo="
@@ -2459,7 +2459,7 @@
 									"font": "Arial;13;0",
 									"left": 624,
 									"top": 468.5,
-									"width": 76.447265625,
+									"width": 76,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyaa7D9O77B0o="
@@ -9010,16 +9010,16 @@
 									"font": "Arial;13;0",
 									"left": 58,
 									"top": 170,
-									"width": 54.18994140625,
+									"width": 59.96630859375,
 									"height": 26,
-									"text": "admin login",
+									"text": "Consumer login",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 48,
 							"top": 160,
-							"width": 74.18994140625,
+							"width": 79.96630859375,
 							"height": 46,
 							"nameLabel": {
 								"$ref": "AAAAAAFyacnm2NUk8Mw="
@@ -9046,7 +9046,7 @@
 									"top": 170,
 									"width": 57.078125,
 									"height": 26,
-									"text": "consumer login",
+									"text": "Admin login",
 									"wordWrap": true
 								}
 							],
@@ -9201,7 +9201,7 @@
 								"$ref": "AAAAAAFyacmd49UaMaY="
 							},
 							"lineStyle": 2,
-							"points": "488:80;488:164;121:164",
+							"points": "488:80;488:164;127:164",
 							"nameLabel": {
 								"$ref": "AAAAAAFyadpzVdWlTlw="
 							}
@@ -10767,7 +10767,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFyaclwoNTd7V4="
 					},
-					"name": "admin login",
+					"name": "Consumer login",
 					"ownedElements": [
 						{
 							"_type": "FCFlow",
@@ -10790,7 +10790,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFyaclwoNTd7V4="
 					},
-					"name": "consumer login",
+					"name": "Admin login",
 					"ownedElements": [
 						{
 							"_type": "FCFlow",
